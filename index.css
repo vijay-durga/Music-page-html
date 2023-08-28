@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #03174c;
+    height: 130vh;
+}
+
+.page1-container-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 60vh;
+    padding: 32px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.c-1-m-heading {
+    color: white;
+    font-family: "bree serif";
+    margin-top:50px;
+}
+
+.c-1-m-para {
+    color: white;
+    font-family: "bree serif";
+}
+
+.page1-container-2-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 25vh;
+    padding: 25px;
+}
+
+.page1-container-2 {
+    padding: 30px;
+}
+
+.c-2-m-heading {
+    color: #ffe7bf;
+    font-family: "bree serif";
+    font-size: 30px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    font-family: "bree serif";
+    font-size: 15px;
+    height: 35px;
+    width: 95px;
+    border-radius: 25px;
+    border-width: 0;
+}
+
+.c-2-m-para {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 15px;
+}
+
+.page-2-bg-container {
+    background-color: #03174c;
+}
+
+.page-2-img-1{
+    width:100vw;
+    height:250px;
+}
+
+.page-2-container-1 {
+    width: 100vw;
+}
+
+.mdc {
+    padding: 22px;
+}
+
+.re-music-dis {
+    color: #98a1bd;
+    font-family: "bree serif";
+    font-size: 15px;
+}
+
+.related-heading {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 20px;
+}
+
+.related-music-cont {
+    margin-right: 10px;
+}
+
+.image-3-22 {
+    width: 40vw;
+    margin-bottom: 3px;
+}
+
+.re-music-name {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 15px;
+}
